@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yuvraj Singh</h1>
+<h1 align="center">Hi 👋, Myself Yuvraj Singh</h1>
 <h3 align="center">A passionate AI/ML developer with a special place for NLP</h3>
 
 - 🔭 I’m currently working on [Recommendation System for Fashion Apparels](https://github.com/YuvrajSingh-mist/FashionX)
