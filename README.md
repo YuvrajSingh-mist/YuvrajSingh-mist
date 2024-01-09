@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **yuvraj.mist@gmail.com**
 
-- ⚡ Fun fact **Welp, I have something to be passionate about!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
