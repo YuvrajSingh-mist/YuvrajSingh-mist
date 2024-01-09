@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Recommendation System](https://github.com/YuvrajSingh-mist/)
 
-- 🌱 I’m currently learning **Computer Vision technologies and its integration with NLP**
+- 🌱 I’m currently learning **Computer Vision technologies and exploring the domain of NLP**
 
 - 🤝 I’m looking for help with **Research/Engineering role, preferably in NLP and/or Computer Vision**
 
