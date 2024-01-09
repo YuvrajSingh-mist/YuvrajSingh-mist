@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Computer Vision technologies and its integration with NLP**
 
-- 🤝 I’m looking for help with **Research, preferably in NLP x Computer Vision**
+- 🤝 I’m looking for help with **Research/Engineering role, preferably in NLP and/or Computer Vision**
 
-- 👨‍💻 All of my projects are available at [https://github.com/YuvrajSingh-mist/](https://github.com/YuvrajSingh-mist?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/YuvrajSingh-mist?tab=repositories)
 
 - 📫 How to reach me **yuvraj.mist@gmail.com**
 
