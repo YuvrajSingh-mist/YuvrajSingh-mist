@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Research, preferably in NLP x Computer Vision**
 
-- 👨‍💻 All of my projects are available at [https://github.com/YuvrajSingh-mist/](https://github.com/YuvrajSingh-mist/)
+- 👨‍💻 All of my projects are available at [https://github.com/YuvrajSingh-mist/](https://github.com/YuvrajSingh-mist?tab=repositories)
 
 - 📫 How to reach me **yuvraj.mist@gmail.com**
 
