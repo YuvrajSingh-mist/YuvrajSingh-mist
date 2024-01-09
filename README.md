@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Myself Yuvraj Singh</h1>
 <h3 align="center">A passionate AI/ML developer with inclination for NLP</h3>
 
-- 🔭 I’m currently working on [Recommendation System for Fashion Apparels](https://github.com/YuvrajSingh-mist/FashionX)
+- 🔭 I’m currently working on [Recommendation System](https://github.com/YuvrajSingh-mist/)
 
 - 🌱 I’m currently learning **Computer Vision technologies and its integration with NLP**
 
