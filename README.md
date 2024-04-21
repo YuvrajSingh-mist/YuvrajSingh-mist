@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, Myself Yuvraj Singh</h1>
-<h3 align="center">A passionate AI/ML developer with inclination for NLP. Aspire to pursue research in the same domain</h3>
+<h3 align="center">A passionate AI/ML developer inclined toward NLP. Aspire to pursue research in the same domain</h3>
 
-- 🔭 I’m currently working on [Recommendation System](https://github.com/YuvrajSingh-mist/)
+- 🔭 I’m currently working on [Fine-tuning LLMs and Research Paper implementations]
+- 🌱 I’m currently learning **NLP and RL**
 
-- 🌱 I’m currently learning **Computer Vision technologies and exploring the domain of NLP**
-
-- 🤝 I’m looking for help with **Research/Engineering role, preferably in NLP and/or Computer Vision**
+- 🤝 I’m looking for help with **Research/SDE role, preferably in NLP and Computer Vision**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/YuvrajSingh-mist?tab=repositories)
 
