@@ -2,7 +2,7 @@
 <h3 align="center">A passionate AI/ML developer inclined toward NLP. Aspire to pursue research abroad in the same domain</h3>
 
 - 🔭 I’m currently working on **Fine-tuning LLMs and Research Paper implementations**
-- 🌱 I’m currently learning **NLP and RL**
+- 🌱 I’m currently learning **GANs**
 
 - 🤝 I’m looking for help with **Research/SDE role, preferably in NLP and Computer Vision**
 
