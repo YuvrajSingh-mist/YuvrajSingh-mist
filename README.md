@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Fine-tuning LLMs and Research Paper implementations**
 - 🌱 I’m currently learning **GANs**
 
-- 🤝 I’m looking for help with **Research/SDE role, preferably in NLP and Computer Vision**
+- 🤝 I’m looking for help with **RE/RS intern or FTE roles, preferably in NLP and Computer Vision**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/YuvrajSingh-mist?tab=repositories)
 
