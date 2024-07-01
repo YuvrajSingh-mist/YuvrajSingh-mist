@@ -3,14 +3,17 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/yuvraj-singh9886/">
+    <img src="https://cdn.simpleicons.org/linkedin/gray" width="30" height="30 alt="LinkedIn"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="yuvrajsingh-mist.github.io/yuvraj-singh-portfolio.github.io/">
+    <img src="https://cdn.simpleicons.org/westernunion/gray" width="30" height="30"  alt="Website Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://huggingface.co/YuvrajSingh9886">
+    <img src="https://cdn.simpleicons.org/huggingface/gray" width="30" height="30"  alt="Badge"/>
+  </a>
+   <a href="yuvraj.mist@gmail.com">
+    <img src= "https://cdn.simpleicons.org/gmail/gray" width="30" height="30"  alt="adge"/>
   </a>
 </div>
 
