@@ -49,6 +49,6 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YuvrajSingh-mist1&theme=dark)](https://git.io/streak-stats)
+![Yuvraj Singh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuvrajsingh-mist&theme=gotham&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuvrajSingh-mist&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Yuvraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yuvrajsingh-mist&days=45&bg_color=0c1014&color=268f77&line=268f77&point=268f77&area=true&hide_border=true)](https://github.com/anurag6569201/github-readme-activity-graph)
