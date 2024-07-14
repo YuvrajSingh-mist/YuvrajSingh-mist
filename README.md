@@ -51,4 +51,4 @@
 
 ![Yuvraj Singh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuvrajsingh-mist&theme=gotham&hide_border=true)
 
-[![Yuvraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yuvrajsingh-mist&days=45&bg_color=0c1014&color=268f77&line=268f77&point=268f77&area=true&hide_border=true)](https://github.com/yuvrajsingh-mist/github-readme-activity-graph)
+[![Yuvraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yuvrajsingh-mist&days=45&bg_color=0c1014&color=268f77&line=268f77&point=268f77&area=true&hide_border=true)]
