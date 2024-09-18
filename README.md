@@ -20,7 +20,7 @@
 ---
 
 <h1 align="center">Hi 👋, Myself Yuvraj Singh</h1>
-<h3 align="center">A passionate AI/ML developer inclined toward NLP. Aspire to pursue research abroad in the same domain</h3>
+<h4 align="center">A passionate AI/ML developer inclined towards NLP and CV (Multimodality). Aspire to pursue research abroad in the same domain</h4>
 
 - 🔭 I’m currently working on **Fine-tuning LLMs and Research Paper implementations**
 - 🌱 I’m currently learning **GANs**
