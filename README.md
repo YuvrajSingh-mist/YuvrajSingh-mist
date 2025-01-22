@@ -23,7 +23,7 @@
 <h4 align="center">A passionate AI/ML developer inclined towards NLP and CV (Multimodality). Aspire to pursue research abroad in the same domain</h4>
 
 - 🔭 I’m currently working on **Fine-tuning LLMs and Research Paper implementations**
-- 🌱 I’m currently learning **GANs**
+- 🌱 I’m currently learning about Reinforcement Learning Techniques and its intersection with LLM's outputs
 
 - 🤝 I’m looking for help with **RE/RS intern or FTE roles, preferably in NLP and Computer Vision**
 
