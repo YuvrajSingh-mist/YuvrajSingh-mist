@@ -25,7 +25,7 @@
 - 🔭 I’m currently working on **Fine-tuning LLMs and Research Paper implementations**
 - 🌱 I’m currently learning about Reinforcement Learning Techniques and its intersection with LLM's outputs
 
-- 🤝 I’m looking for help with **RE/RS intern or FTE roles, preferably in NLP and Computer Vision**
+- 🤝 I’m looking for **RE/RS intern or FTE roles, preferably in NLP and Computer Vision**
 
 - 📫 How to reach me **yuvraj.mist@gmail.com**
 
