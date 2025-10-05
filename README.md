@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
@@ -17,34 +17,21 @@
   </a>
 </div>
 
----
+--- -->
 
 <h1 align="center">Hi 👋, Myself Yuvraj Singh</h1>
 <h4 align="center">A passionate AI/ML developer inclined towards NLP and CV (Multimodality). Aspire to pursue research abroad in the same domain</h4>
 
-- 🔭 I’m currently working on **Fine-tuning LLMs and Research Paper implementations**
-- 🌱 I’m currently learning about Reinforcement Learning Techniques and its intersection with LLM's outputs
+- 🔭 I love to replicate SOTA papers, especially langauge models and RL ones!
+- 🌱 I’m currently learning about LLM-RL and Quatizations for Edge AI
 
-- 🤝 I’m looking for **RE/RS intern or FTE roles, preferably in NLP and Computer Vision**
+- 🤝 I’m looking for **RE/RS intern or FTE roles in AI/ML domain**
 
 - 📫 How to reach me **yuvraj.mist@gmail.com**
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-
----
 
 ### :fire: My Stats :
 
