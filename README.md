@@ -20,12 +20,12 @@
 --- -->
 
 <h1 align="center">Hi 👋, Myself Yuvraj Singh</h1>
-<h4 align="center">A passionate AI/ML developer inclined towards NLP and CV (Multimodality). Aspire to pursue research abroad in the same domain</h4>
+<h4 align="center">Trying to cluster phone, tablet, PCs to train models!</h4>
 
-- 🔭 I love to replicate SOTA papers, especially langauge models and RL ones!
-- 🌱 I’m currently learning about LLM-RL and Quatizations for Edge AI
+- 🔭 I love to replicate research papers - mostly language modelling
+- 🌱 I’m currently learning about LLM-RL and Distributed Learning
 
-- 🤝 I’m looking for **RE/RS intern or FTE roles in AI/ML domain**
+- 🤝 Open to opportunities and collaborations!
 
 - 📫 How to reach me **yuvraj.mist@gmail.com**
 
